@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋 I'm Vinay <br><br>💼 Full Stack Developer | MERN Stack Engineer | AI/ML <br><br>
+# Hi 👋 I'm Vinay <br><br>💼 Full Stack Developer | MERN Stack Engineer | AI/ML | UI/UX Developer <br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kolagani-venkata-uma-vinay-330b0b36a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaykolagani9347@gmail.com) 
 
